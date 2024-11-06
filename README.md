@@ -10,8 +10,9 @@
 
 因中国社会科学院大学更新了《中国社会科学院大学研究生学位论文写作基本要求》，基于新要求上传了2024年版本的zotero引用格式。
 
-该版本基于牛耕田（ buffalo_d@163.com ）和Zeping Lee（ zepinglee@gmail.com ）公开的“GB/T 7714—2015（顺序编码，双语）”修改
-（ https://github.com/zotero-chinese/styles/tree/main/src/gb-t-7714-2015-numeric-bilingual ）
+该版本基于牛耕田（ buffalo_d@163.com ）和Zeping Lee（ zepinglee@gmail.com ）公开的“GB/T 7714—2015（顺序编码，双语）”修改。
+
+原网址： https://github.com/zotero-chinese/styles/tree/main/src/gb-t-7714-2015-numeric-bilingual
 
 感谢二位大佬。
 
